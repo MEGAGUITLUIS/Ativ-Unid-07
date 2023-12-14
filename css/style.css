@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #b9b2f8;
+    justify-content: left;
+    height: 200px; 
+    align-items: center;
+    width: 100%;
+}
+
+.item{
+    font-size: 1en;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: 10%;
+    text-align: center;
+    margin-right: 5%;
+}
+.main{
+    margin-left: 40%;
+    width: 100%;
+    justify-content: center;
+   
+}
+.painel{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    
+}
+
+
+    
+
